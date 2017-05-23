@@ -1,0 +1,10 @@
+C:\Users\Luis\Documents\Visual Studio 2013\ProyectosSPA\Demo04\MvcElComercio\MvcElComercio\MvcElComercio\EC.MVC.Domain\bin\x86\Debug\EC.MVC.Domain.dll
+C:\Users\Luis\Documents\Visual Studio 2013\ProyectosSPA\Demo04\MvcElComercio\MvcElComercio\MvcElComercio\EC.MVC.Domain\bin\x86\Debug\EC.MVC.Domain.pdb
+C:\Users\Luis\Documents\Visual Studio 2013\ProyectosSPA\Demo04\MvcElComercio\MvcElComercio\MvcElComercio\EC.MVC.Domain\obj\x86\Debug\EC.MVC.Domain.dll
+C:\Users\Luis\Documents\Visual Studio 2013\ProyectosSPA\Demo04\MvcElComercio\MvcElComercio\MvcElComercio\EC.MVC.Domain\obj\x86\Debug\EC.MVC.Domain.pdb
+C:\Users\Luis\Documents\Visual Studio 2013\ProyectosSPA\Demo04\MvcElComercio\MvcElComercio\MvcElComercio\EC.MVC.Domain\obj\x86\Debug\EC.MVC.Domain.csprojResolveAssemblyReference.cache
+C:\Users\luimich0\Desktop\MvcElComercio\MvcElComercio\EC.MVC.Domain\obj\x86\Debug\EC.MVC.Domain.csprojResolveAssemblyReference.cache
+C:\Users\luimich0\Desktop\MvcElComercio\MvcElComercio\EC.MVC.Domain\obj\x86\Debug\EC.MVC.Domain.dll
+C:\Users\luimich0\Desktop\MvcElComercio\MvcElComercio\EC.MVC.Domain\bin\x86\Debug\EC.MVC.Domain.dll
+C:\Users\luimich0\Desktop\MvcElComercio\MvcElComercio\EC.MVC.Domain\bin\x86\Debug\EC.MVC.Domain.pdb
+C:\Users\luimich0\Desktop\MvcElComercio\MvcElComercio\EC.MVC.Domain\obj\x86\Debug\EC.MVC.Domain.pdb

@@ -1,0 +1,20 @@
+C:\Users\Luis\Documents\Visual Studio 2013\ProyectosSPA\Demo04\MvcElComercio\MvcElComercio\MvcElComercio\EC.MVC.Application\bin\x86\Debug\EC.MVC.Application.dll
+C:\Users\Luis\Documents\Visual Studio 2013\ProyectosSPA\Demo04\MvcElComercio\MvcElComercio\MvcElComercio\EC.MVC.Application\bin\x86\Debug\EC.MVC.Application.pdb
+C:\Users\Luis\Documents\Visual Studio 2013\ProyectosSPA\Demo04\MvcElComercio\MvcElComercio\MvcElComercio\EC.MVC.Application\bin\x86\Debug\EC.MVC.Domain.dll
+C:\Users\Luis\Documents\Visual Studio 2013\ProyectosSPA\Demo04\MvcElComercio\MvcElComercio\MvcElComercio\EC.MVC.Application\bin\x86\Debug\EC.MVC.Domain.pdb
+C:\Users\Luis\Documents\Visual Studio 2013\ProyectosSPA\Demo04\MvcElComercio\MvcElComercio\MvcElComercio\EC.MVC.Application\obj\x86\Debug\EC.MVC.Application.csprojResolveAssemblyReference.cache
+C:\Users\Luis\Documents\Visual Studio 2013\ProyectosSPA\Demo04\MvcElComercio\MvcElComercio\MvcElComercio\EC.MVC.Application\obj\x86\Debug\EC.MVC.Application.dll
+C:\Users\Luis\Documents\Visual Studio 2013\ProyectosSPA\Demo04\MvcElComercio\MvcElComercio\MvcElComercio\EC.MVC.Application\obj\x86\Debug\EC.MVC.Application.pdb
+C:\Users\luimich0\Desktop\MvcElComercio\MvcElComercio\EC.MVC.Application\bin\x86\Debug\EC.MVC.Application.dll
+C:\Users\luimich0\Desktop\MvcElComercio\MvcElComercio\EC.MVC.Application\bin\x86\Debug\EC.MVC.Application.pdb
+C:\Users\luimich0\Desktop\MvcElComercio\MvcElComercio\EC.MVC.Application\bin\x86\Debug\EC.MVC.Domain.dll
+C:\Users\luimich0\Desktop\MvcElComercio\MvcElComercio\EC.MVC.Application\bin\x86\Debug\EC.MVC.Domain.pdb
+C:\Users\luimich0\Desktop\MvcElComercio\MvcElComercio\EC.MVC.Application\obj\x86\Debug\EC.MVC.Application.csprojResolveAssemblyReference.cache
+C:\Users\luimich0\Desktop\MvcElComercio\MvcElComercio\EC.MVC.Application\obj\x86\Debug\EC.MVC.Application.dll
+C:\Users\luimich0\Desktop\MvcElComercio\MvcElComercio\EC.MVC.Application\obj\x86\Debug\EC.MVC.Application.pdb
+C:\Users\Luis\Desktop\Final\MvcElComercioFinal\MvcElComercio\EC.MVC.Application\bin\x86\Debug\EC.MVC.Application.dll
+C:\Users\Luis\Desktop\Final\MvcElComercioFinal\MvcElComercio\EC.MVC.Application\bin\x86\Debug\EC.MVC.Application.pdb
+C:\Users\Luis\Desktop\Final\MvcElComercioFinal\MvcElComercio\EC.MVC.Application\bin\x86\Debug\EC.MVC.Domain.dll
+C:\Users\Luis\Desktop\Final\MvcElComercioFinal\MvcElComercio\EC.MVC.Application\bin\x86\Debug\EC.MVC.Domain.pdb
+C:\Users\Luis\Desktop\Final\MvcElComercioFinal\MvcElComercio\EC.MVC.Application\obj\x86\Debug\EC.MVC.Application.dll
+C:\Users\Luis\Desktop\Final\MvcElComercioFinal\MvcElComercio\EC.MVC.Application\obj\x86\Debug\EC.MVC.Application.pdb

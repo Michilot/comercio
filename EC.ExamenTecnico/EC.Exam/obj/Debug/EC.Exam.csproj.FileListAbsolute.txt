@@ -1,0 +1,11 @@
+C:\Users\Luis\Documents\Visual Studio 2013\ProyectosSPA\Demo04\EC.Exam\EC.Exam\bin\Debug\EC.Exam.exe.config
+C:\Users\Luis\Documents\Visual Studio 2013\ProyectosSPA\Demo04\EC.Exam\EC.Exam\obj\Debug\EC.Exam.csprojResolveAssemblyReference.cache
+C:\Users\Luis\Documents\Visual Studio 2013\ProyectosSPA\Demo04\EC.Exam\EC.Exam\obj\Debug\EC.Exam.Properties.Resources.resources
+C:\Users\Luis\Documents\Visual Studio 2013\ProyectosSPA\Demo04\EC.Exam\EC.Exam\obj\Debug\EC.Exam.csproj.GenerateResource.Cache
+C:\Users\Luis\Documents\Visual Studio 2013\ProyectosSPA\Demo04\EC.Exam\EC.Exam\bin\Debug\EC.Exam.exe
+C:\Users\Luis\Documents\Visual Studio 2013\ProyectosSPA\Demo04\EC.Exam\EC.Exam\bin\Debug\EC.Exam.pdb
+C:\Users\Luis\Documents\Visual Studio 2013\ProyectosSPA\Demo04\EC.Exam\EC.Exam\bin\Debug\EC.BusinessLogic.dll
+C:\Users\Luis\Documents\Visual Studio 2013\ProyectosSPA\Demo04\EC.Exam\EC.Exam\bin\Debug\EC.BusinessLogic.pdb
+C:\Users\Luis\Documents\Visual Studio 2013\ProyectosSPA\Demo04\EC.Exam\EC.Exam\obj\Debug\EC.Exam.exe
+C:\Users\Luis\Documents\Visual Studio 2013\ProyectosSPA\Demo04\EC.Exam\EC.Exam\obj\Debug\EC.Exam.pdb
+C:\Users\Luis\Documents\Visual Studio 2013\ProyectosSPA\Demo04\EC.Exam\EC.Exam\obj\Debug\EC.Exam.frmElComercio.resources

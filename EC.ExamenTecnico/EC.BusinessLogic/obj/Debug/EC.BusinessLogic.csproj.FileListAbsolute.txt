@@ -1,0 +1,4 @@
+C:\Users\Luis\Documents\Visual Studio 2013\ProyectosSPA\Demo04\EC.Exam\EC.BusinessLogic\bin\Debug\EC.BusinessLogic.dll
+C:\Users\Luis\Documents\Visual Studio 2013\ProyectosSPA\Demo04\EC.Exam\EC.BusinessLogic\bin\Debug\EC.BusinessLogic.pdb
+C:\Users\Luis\Documents\Visual Studio 2013\ProyectosSPA\Demo04\EC.Exam\EC.BusinessLogic\obj\Debug\EC.BusinessLogic.dll
+C:\Users\Luis\Documents\Visual Studio 2013\ProyectosSPA\Demo04\EC.Exam\EC.BusinessLogic\obj\Debug\EC.BusinessLogic.pdb
